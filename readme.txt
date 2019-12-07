@@ -28,9 +28,6 @@ Once the above libraries are installed, we need to run the python files in the b
                         need to run this file.
 
 
-We are from Team 4 and we are thankful to the professor and TA for giving us an opportunity to present our project through
-the skills that we learned from this course. If you have any further questions or have any issues in running this project
-
 
 
 
