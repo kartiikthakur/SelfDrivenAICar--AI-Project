@@ -5,7 +5,11 @@ actions it can perform. Each state has many actions associated with it and each 
 consequence. If it’s positive, we’re reinforced to take that action again, and vice versa. The goal of the agent is to maximize its 
 rewards for each state action pair.
 
-In this project we used the concept of Q-Learning, it allows machines (known as agents) to learn by experimentation.  In Q-Learning, we use these rewards to update Q-Values that tell us how good/desirable a certain state is. In Deep Q-Learning, instead of storing Q-Values, we instead use a Deep Neural Network which allows us to approximate Q-Values, given our state as input. Next time our agent moves through our environment, it will use the Deep Q-Network to generate Q-Values for each action, and take the action with the highest Q-Value.
+In this project we used the concept of Q-Learning, it allows machines (known as agents) to learn by experimentation.  In Q-Learning, we 
+use these rewards to update Q-Values that tell us how good/desirable a certain state is. In Deep Q-Learning, instead of storing Q-
+Values, we instead use a Deep Neural Network which allows us to approximate Q-Values, given our state as input. Next time our agent 
+moves through our environment, it will use the Deep Q-Network to generate Q-Values for each action, and take the action with the highest 
+Q-Value.
 
 
 Enhancements:
